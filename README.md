@@ -18,13 +18,10 @@
   <img src="https://img.shields.io/badge/COBOL-BFD8FF?style=for-the-badge&logo=cobol&logoColor=white" alt="COBOL" />
 </div>
 
-
-
 ### 🌸 Database 
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-B0C4DE?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
-
 
 ### 🌷 Tools & Platforms
 <div align="left">
@@ -34,12 +31,6 @@
   <img src="https://img.shields.io/badge/Draw.io-FFDAB9?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io" />
 </div>
 
-
-
 ### ✨ GitHub Stats
 <img alt="GitHub Stats" align="left" width="47%" 
 src="https://github-readme-stats.vercel.app/api?username=macaronieiei&show_icons=true&rank_icon=github&title_color=ff69b4&text_color=8b4513&icon_color=ff69b4&bg_color=fffaf0&border_color=d2b48c" />
-
-<img alt="Top Languages" align="left" width="47%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=macaronieiei&layout=compact&title_color=ff69b4&text_color=8b4513&bg_color=fffaf0&border_color=d2b48c" />
-
