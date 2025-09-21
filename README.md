@@ -1,7 +1,8 @@
 # Hi! 🧸 
-Welcome to my GitHub space! 🧸✨  
-I'm **Aswanee**, a **3rd-year Computer Science student** at **Kasetsart University, Kamphaeng Saen Campus** 
-
+Welcome to my GitHub space!<br>
+I'm **Aswanee**<br>
+📍 Computer Science student<br>
+📍 Kasetsart University, Kamphaeng Saen Campus
 
 ## 🍫 Skills & Tools
 ### 🎀 Frontend
