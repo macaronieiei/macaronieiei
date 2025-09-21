@@ -1,3 +1,9 @@
+# Hi! 🧸 
+Welcome to my GitHub space! 🧸✨  
+I'm **Aswanee**, a **3rd-year Computer Science student** at **Kasetsart University, Kamphaeng Saen Campus** 
+
+
+## 🍫 Skills & Tools
 ### 🎀 Frontend
 <div align="left">
   <img src="https://img.shields.io/badge/React-A7C7E7?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -31,6 +37,6 @@
   <img src="https://img.shields.io/badge/Draw.io-FFDAB9?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io" />
 </div>
 
-### ✨ GitHub Stats
+## ✨ GitHub Stats
 <img alt="GitHub Stats" align="left" width="47%" 
 src="https://github-readme-stats.vercel.app/api?username=macaronieiei&show_icons=true&rank_icon=github&title_color=ff69b4&text_color=8b4513&icon_color=ff69b4&bg_color=fffaf0&border_color=d2b48c" />
