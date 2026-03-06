@@ -1,6 +1,6 @@
 # Hi! 🧸 
 Welcome to my GitHub space!<br>
-I'm **Aswanee**<br>
+I'm **Asvanee**<br>
 📍 Computer Science student<br>
 📍 Kasetsart University, Kamphaeng Saen Campus
 
@@ -40,4 +40,4 @@ I'm **Aswanee**<br>
 
 ## ✨ GitHub Stats
 <img alt="GitHub Stats" align="left" width="47%" 
-src="https://github-readme-stats.vercel.app/api?username=macaronieiei&show_icons=true&rank_icon=github&title_color=ff69b4&text_color=8b4513&icon_color=ff69b4&bg_color=fffaf0&border_color=d2b48c" />
+src="https://github-readme-streak-stats.herokuapp.com/?user=macaronieiei&theme=light&border_radius=10&background=fffaf0&stroke=ff69b4&curr_streak_num=8b4513&curr_streak_label=ff69b4&side_nums=8b4513&side_labels=ff69b4" />
