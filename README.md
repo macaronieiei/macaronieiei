@@ -47,9 +47,7 @@ I'm **Asvanee**<br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-F0E68C?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FFD8B1?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-FFB347?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-ADD8E6?style=for-the-badge&logo=vercel&logoColor=black" />
-  <img src="https://img.shields.io/badge/Draw.io-FFDAB9?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 </div>
 <br><br>
 
