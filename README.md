@@ -5,6 +5,7 @@ I'm **Asvanee**<br>
 📍 Kasetsart University, Kamphaeng Saen Campus
 
 📧 asvanee.arong@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/asvanee-arong-14a7a3424)
+<br><br>
 
 ## 🍫 Skills & Tools
 
@@ -50,6 +51,7 @@ I'm **Asvanee**<br>
   <img src="https://img.shields.io/badge/Vercel-ADD8E6?style=for-the-badge&logo=vercel&logoColor=black" />
   <img src="https://img.shields.io/badge/Draw.io-FFDAB9?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 </div>
+<br><br>
 
 ## 🚀 Featured Projects
 
@@ -62,20 +64,20 @@ I'm **Asvanee**<br>
 &nbsp;&nbsp;Backend: Node.js/Express + TypeScript<br>
 &nbsp;&nbsp;Database: Supabase (PostgreSQL)
 
-🔗 [Repo](https://github.com/macaronieiei/e-tinerary-planning)
+[E-Tinerary Planning](https://github.com/macaronieiei/e-tinerary-planning)
 
 ---
-
 
 ### 💻 Client Websites (EEC Search Industry)
 พัฒนาเว็บไซต์ธุรกิจ 5 เว็บไซต์ด้วย Next.js โดยรับเนื้อหาจากลูกค้าและจัดวางลงเว็บไซต์ พร้อมปรับปรุง SEO และตรวจสอบประสิทธิภาพของเว็บไซต์
 
-🔗 [Glamor Plus](https://www.glamorplus.co.th/th) — พัฒนาระบบ backend ให้ admin สามารถแก้ไขข้อมูลเว็บไซต์แบบ dynamic ด้วย Node.js
-🔗 [PB Trading](https://www.pb-trading2022.com/th)
-🔗 [Samsaeng Engineering](https://samsaenengineering.co.th/th/)
-🔗 [Runpar](https://www.runpar.co.th/th)
-🔗 [FN Techno](https://www.fntechno.co.th/)
+🔗 [Glamor Plus](https://www.glamorplus.co.th/th) — พัฒนาระบบ backend ให้ admin สามารถแก้ไขข้อมูลเว็บไซต์แบบ dynamic ด้วย Node.js <br>
+🔗 [PB Trading](https://www.pb-trading2022.com/th) <br>
+🔗 [Samsaeng Engineering](https://samsaenengineering.co.th/th/) <br>
+🔗 [Runpar](https://www.runpar.co.th/th) <br>
+🔗 [FN Techno](https://www.fntechno.co.th/) <br>
 
+<br><br>
 ## ✨ GitHub Stats
 <img alt="GitHub Stats" align="left" width="47%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=macaronieiei&theme=light&border_radius=10&background=fffaf0&stroke=ff69b4" />
