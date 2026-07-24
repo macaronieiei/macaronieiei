@@ -78,9 +78,8 @@ I'm **Asvanee**<br>
 🔗 [FN Techno](https://www.fntechno.co.th/) <br>
 
 <br>
+
 ## ✨ GitHub Stats
 <img alt="GitHub Stats" align="left" width="47%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=macaronieiei&theme=light&border_radius=10&background=fffaf0&stroke=ff69b4" />
 
-<img alt="Top Languages" align="left" width="47%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=macaronieiei&theme=default&border_radius=10&bg_color=fffaf0&title_color=ff69b4&hide_border=true" />
