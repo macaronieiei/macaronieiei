@@ -52,11 +52,13 @@ I'm **Asvanee**<br>
 ## 🚀 Featured Projects
 
 ### 🗺️ E-tinerary
-ระบบวางแผนการเดินทางท่องเที่ยวในประเทศไทย (โปรเจกต์จบ)
-- Full-stack: React + Node.js/Express + TypeScript + Supabase (PostgreSQL)
-- ออกแบบระบบ Authentication (JWT-based) และ RESTful API สำหรับจัดการทริป พร้อม business logic validation
+เว็บไซต์เพื่อการวางแผนการเดินทางท่องเที่ยวในประเทศไทย โดยใช้ระบบ E-tinerary (กำลังพัฒนา)
+- พัฒนา full-stack web application 
+  Frontend: React 
+  Backend: Node.js/Express + TypeScript
+  Database: Supabase (PostgreSQL)
 - ใช้ Google Maps API และ Google Places API สำหรับแนะนำสถานที่ท่องเที่ยว
-🔗 [Repo](ใส่ลิงก์) | 🌐 [Demo](ใส่ลิงก์ถ้ามี)
+🔗 [Repo](https://github.com/macaronieiei/e-tinerary-planning)
 
 ---
 
@@ -81,6 +83,7 @@ Frontend Development + Technical SEO
 **🔧 FN Techno**
 Frontend Development + Technical SEO
 🔗 [fntechno.co.th](https://www.fntechno.co.th/)
+
 
 ## ✨ GitHub Stats
 <img alt="GitHub Stats" align="left" width="47%" 
