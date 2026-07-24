@@ -1,8 +1,10 @@
-# Hi! 🧸 
+# Hi! 🧸
 Welcome to my GitHub space!<br>
 I'm **Asvanee**<br>
 📍 Computer Science student<br>
 📍 Kasetsart University, Kamphaeng Saen Campus
+
+📧 asvanee.arong@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/asvanee-arong-14a7a3424)
 
 ## 🍫 Skills & Tools
 
@@ -51,40 +53,32 @@ I'm **Asvanee**<br>
 
 ## 🚀 Featured Projects
 
-### 🗺️ E-tinerary
-เว็บไซต์เพื่อการวางแผนการเดินทางท่องเที่ยวในประเทศไทย โดยใช้ระบบ E-tinerary (กำลังพัฒนา)
-- พัฒนา full-stack web application 
-  Frontend: React 
-  Backend: Node.js/Express + TypeScript
-  Database: Supabase (PostgreSQL)
-- ใช้ Google Maps API และ Google Places API สำหรับแนะนำสถานที่ท่องเที่ยว
+### 🗺️ เว็บไซต์เพื่อการวางแผนการเดินทางท่องเที่ยวในประเทศไทย โดยใช้ระบบ E-tinerary (กำลังพัฒนา)
+พัฒนาระบบคำนวณคะแนนความน่าสนใจของสถานที่ (POI Scoring) เพื่อจัดลำดับและแนะนำสถานที่ท่องเที่ยวให้เหมาะกับความสนใจของผู้ใช้แต่ละคน<br>
+โดยพิจารณาจากหมวดหมู่ที่ผู้ใช้เลือก ระยะทาง และงบประมาณของทริป<br>
+- ใช้ Google Maps API และ Google Places API สำหรับดึงข้อมูลสถานที่และแนะนำเส้นทาง<br>
+- พัฒนา full-stack web application<br>
+&nbsp;&nbsp;Frontend: React<br>
+&nbsp;&nbsp;Backend: Node.js/Express + TypeScript<br>
+&nbsp;&nbsp;Database: Supabase (PostgreSQL)
+
 🔗 [Repo](https://github.com/macaronieiei/e-tinerary-planning)
 
 ---
 
+
 ### 💻 Client Websites (EEC Search Industry)
+พัฒนาเว็บไซต์ธุรกิจ 5 เว็บไซต์ด้วย Next.js โดยรับเนื้อหาจากลูกค้าและจัดวางลงเว็บไซต์ พร้อมปรับปรุง SEO และตรวจสอบประสิทธิภาพของเว็บไซต์
 
-**🛍️ Glamor Plus**
-Backend API + Technical SEO
-🔗 [glamorplus.co.th](https://www.glamorplus.co.th/th)
-
-**🏭 PB Trading**
-Frontend Development + Technical SEO
-🔗 [pb-trading2022.com](https://www.pb-trading2022.com/th)
-
-**⚙️ Samsaeng Engineering**
-Frontend Development + Technical SEO
-🔗 [samsaenengineering.co.th](https://samsaenengineering.co.th/th/)
-
-**🏃 Runpar**
-Frontend Development + Technical SEO
-🔗 [runpar.co.th](https://www.runpar.co.th/th)
-
-**🔧 FN Techno**
-Frontend Development + Technical SEO
-🔗 [fntechno.co.th](https://www.fntechno.co.th/)
-
+🔗 [Glamor Plus](https://www.glamorplus.co.th/th) — พัฒนาระบบ backend ให้ admin สามารถแก้ไขข้อมูลเว็บไซต์แบบ dynamic ด้วย Node.js
+🔗 [PB Trading](https://www.pb-trading2022.com/th)
+🔗 [Samsaeng Engineering](https://samsaenengineering.co.th/th/)
+🔗 [Runpar](https://www.runpar.co.th/th)
+🔗 [FN Techno](https://www.fntechno.co.th/)
 
 ## ✨ GitHub Stats
-<img alt="GitHub Stats" align="left" width="47%" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=macaronieiei&theme=light&border_radius=10&background=fffaf0&stroke=ff69b4&curr_streak_num=8b4513&curr_streak_label=ff69b4&side_nums=8b4513&side_labels=ff69b4" />
+<img alt="GitHub Stats" align="left" width="47%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=macaronieiei&theme=light&border_radius=10&background=fffaf0&stroke=ff69b4" />
+
+<img alt="Top Languages" align="left" width="47%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=macaronieiei&theme=default&border_radius=10&bg_color=fffaf0&title_color=ff69b4&hide_border=true" />
